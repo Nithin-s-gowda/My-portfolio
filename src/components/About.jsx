@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I am Nithin S, a Computer Science and Engineering graduate (2025) from 
+        Adichunchanagiri Institute of Technology, with a strong foundation in 
+        software development, cybersecurity, and cloud technologies. Passionate 
+        about problem-solving and building scalable applications, I am actively seeking
+        an entry-level role in IT to apply my technical expertise and grow professionally.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
